@@ -6,6 +6,7 @@ Kullanılan Teknolojiler
 
     OpenCV: Görüntü işleme ve bilgisayarla görme uygulamaları için yaygın olarak kullanılan açık kaynaklı bir kütüphane.
     Haarcascade Algoritmaları: Yüz ve göz algılamak için kullanılan önceden eğitilmiş modeller.
+    
 
 Yöntem
 
