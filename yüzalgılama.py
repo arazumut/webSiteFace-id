@@ -3,6 +3,7 @@ import cv2
 face_cascade = cv2.CascadeClassifier(r"haarcascade_frontalface_default.xml")
 eye_cascade = cv2.CascadeClassifier(r"haarcascade_eye.xml")
 
+#Produced By K. Umut Araz
 
 previous_faces = {}
 
