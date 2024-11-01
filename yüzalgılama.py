@@ -32,6 +32,7 @@ while cap.isOpened():
             cv2.rectangle(img, (x, y), (x+w, y+h), (0, 255, 255), 3)
             cv2.putText(img, "Guvenilir Yuz Algilandi. Web Sitesine Hoşgeldiniz!", (x, y-10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 255, 255), 2)
 
+        
         roi_gray = gray[y:y+h, x:x+w]
         eyes = eye_cascade.detectMultiScale(roi_gray)
         for (ex, ey, ew, eh) in eyes:
