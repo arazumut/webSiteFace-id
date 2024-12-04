@@ -10,6 +10,7 @@ Kullanılan Teknolojiler
 
 Yöntem
 
+
     Modellerin Yüklenmesi:
     Proje başlangıcında, Haarcascade sınıflandırıcı dosyaları yüklenir. Bu dosyalar, yüz ve göz algılama işlemleri için kullanılır.
 
