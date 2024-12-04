@@ -1,6 +1,7 @@
 Yüz ve Göz Algılama Projesi
 Giriş
 
+
 Bu proje, OpenCV kütüphanesi kullanarak gerçek zamanlı olarak bir video akışında yüz ve göz algılama işlemlerini gerçekleştirmeyi amaçlamaktadır. Video akışı sırasında yeni yüzler algılandığında, kullanıcıdan kimlik doğrulaması istenir. Daha önce algılanmış yüzler güvenilir olarak kabul edilir ve hoş geldiniz mesajı gösterilir.
 Kullanılan Teknolojiler
 
